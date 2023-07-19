@@ -1,0 +1,22 @@
+{
+  "name": "express-app",
+  "version": "1.0.0",
+  "description": "Simple server creation using Express.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AtulSingh11-0/Express-App.git"
+  },
+  "author": "Atul Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AtulSingh11-0/Express-App/issues"
+  },
+  "homepage": "https://github.com/AtulSingh11-0/Express-App#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
